@@ -1,0 +1,6 @@
+venv
+host/temp/*
+host/result/*
+host/test_audio/*
+bin
+build

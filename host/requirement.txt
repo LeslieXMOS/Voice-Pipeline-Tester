@@ -1,0 +1,5 @@
+xmos-ai-tools==v1.4.3.dev40
+./sandbox/xscope_fileio
+numpy
+soundfile
+matplotlib
